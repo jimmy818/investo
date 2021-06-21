@@ -1,0 +1,19 @@
+Book:{
+    Id:1001,
+    Title:'Harry Poter',
+    Author:'J k Rowling',
+    Likes:260,
+    Rating:4.5,
+    Category:['Si-fi','Adventure','Childern'],
+    Comments:[
+        {
+            Cid:[]
+
+
+        },
+        {
+
+
+        }
+    ]
+}
